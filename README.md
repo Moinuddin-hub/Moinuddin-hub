@@ -2,7 +2,7 @@
 
 ![github](github-banner.png)
  Hi I am moin uddin
-
+ I have passion for learning and sharing my knowledge with others as publicly as possible.I enjoy working with include Reactjs,javascript as well as nodejs 
 
 Here are some ideas to get you started:
 
