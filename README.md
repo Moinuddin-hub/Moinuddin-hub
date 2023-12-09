@@ -1,8 +1,8 @@
 
 
 ![github](github-banner.png)
- Hi there 👋
-**Moinuddin-hub/Moinuddin-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi I am moin uddin
+ **Moinuddin-hub/Moinuddin-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
