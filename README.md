@@ -9,6 +9,7 @@ Skills: Tailwaind / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on  github
 - 💬 Ask me about web development
+- moincse022@gmail.com
 
 
 
