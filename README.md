@@ -21,6 +21,12 @@ Skills: Tailwaind / REACT / JS / HTML / CSS
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-hub)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moinuddin-hub&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Moinuddin-hub)  
+
 
 
 
