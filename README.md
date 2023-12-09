@@ -2,11 +2,11 @@
 
 ![github](github-banner.png)
  Hi I am moin uddin
- I have passion for learning and sharing my knowledge with others as publicly as possible.I enjoy working with include Reactjs,javascript as well as nodejs 
+ -I have passion for learning and sharing my knowledge with others as publicly as possible.I enjoy working with include Reactjs,javascript as well as nodejs 
 
 Skills: Tailwaind / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently a front-end developer with MERN STACK techonology 
 - 👯 I’m looking to collaborate on  github
 - 💬 Ask me about web development
 - moincse022@gmail.com
